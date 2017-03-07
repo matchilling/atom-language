@@ -1,0 +1,4 @@
+'.source.botlang':
+  '#!/usr/bin/env botlang':
+    'prefix': 'env'
+    'body': '#!/usr/bin/env botlang\n'

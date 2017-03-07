@@ -1,0 +1,18 @@
+name: "Botlang"
+scopeName: "text.botlang"
+fileTypes: [
+  "bot"
+]
+patterns: [
+  {
+    include: "#comments"
+  }
+]
+repository:
+  comments:
+    patterns: [
+      {
+        match: "//.*$"
+        name: "comment.line.double-slash"
+      }
+    ]

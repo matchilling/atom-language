@@ -1,0 +1,27 @@
+{
+  "name": "language-botlang",
+  "version": "0.0.0",
+  "description": "Botlang support for Atom.",
+  "author": {
+    "name": "Mathias Schilling",
+    "email": "m@matchilling.com",
+    "url": "https://www.matchilling.com"
+  },
+  "homepage": "https://botlang.org",
+  "licenses": [
+    {
+      "type": "GPL-3.0",
+      "url": "https://github.com/botlang/atom-language/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/botlang/atom-language.git"
+  },
+  "bugs": {
+    "url": "https://github.com/botlang/atom-language/issues"
+  },
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
